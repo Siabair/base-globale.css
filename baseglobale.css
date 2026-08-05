@@ -1571,7 +1571,6 @@ blockquote cite {
 .sceditor-container {
   border: var(--border) !important;
   background-color: var(--neutral) !important;
-  min-width: 400px;
 }
 
 /* Barre d'outils de l'éditeur de texte*/
@@ -1579,7 +1578,6 @@ div.sceditor-toolbar {
   background: var(--neutral) !important;
   border-bottom: none !important;
   padding: 10px 10px 0 !important;
-  min-width: 400px;
 }
 
 /* Conteneur des groupes d'outils */
@@ -1630,7 +1628,6 @@ a.sceditor-button {
     border: none !important;
     border-radius: 5px !important;
     padding: 5px 10px !important;
-    min-width: 400px;
   }
 
   & .button {
