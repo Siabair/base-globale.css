@@ -1381,9 +1381,8 @@ a.forumtitle {
 }
 
 /* ··· PROFIL DU POSTEUR ··· */
-.post_profile {
-  padding: 10px;
-  border-right: 1px solid var(--neutralDark);
+.post_profile .u-img-square {
+    --round: 5px !important;
 }
 
 /* Mention "en ligne" */
